@@ -3,7 +3,7 @@
     "path": "~/Desktop/EDLD651/Week 7 11.10.21/week_7/scripts/foo.Rmd",
     "project_path": "scripts/foo.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3393293005",
     "contents": "",
     "dirty": false,
     "created": 1636582131153.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "18,20",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1636582035,
+    "lastKnownWriteTime": 1636585705,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1636582035,
+    "last_content_update": 1636585705206,
     "read_only": false,
     "read_only_alternatives": []
 }
