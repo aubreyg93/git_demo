@@ -1,0 +1,17 @@
+---
+title: "week_7"
+author: "Aubrey"
+date: "11/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r}
+
+
+```
+
